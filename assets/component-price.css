@@ -20,8 +20,11 @@
 
 .price .price-item {
   display: inline-block;
-  margin: 0 1rem 0 0;
+  color: rgb(var(--color-base-accent-1));
+  font: normal normal 600 16px/19px Montserrat;
+  letter-spacing: 0px;
 }
+
 
 .price__regular .price-item--regular {
   margin-right: 0;
@@ -46,6 +49,11 @@
 @media screen and (min-width: 750px) {
   .price--large {
     font-size: 1.8rem;
+    text-align: left;
+font: normal normal 600 18px/22px Montserrat;
+letter-spacing: 0px;
+color: #1F47FF;
+opacity: 1;
   }
 }
 
@@ -65,7 +73,7 @@
 
 .price--sold-out .price__badge-sold-out,
 .price--on-sale .price__badge-sale {
-  display: inline-block;
+  display: none;
 }
 
 .price--on-sale .price__sale {
@@ -81,8 +89,9 @@
 
 .price--on-sale .price-item--regular {
   text-decoration: line-through;
-  color: rgba(var(--color-foreground), 0.75);
-  font-size: 1.3rem;
+  color: rgba(var(--color-foreground));
+  font: normal normal 600 16px/19px Montserrat;
+  letter-spacing: 0px;
 }
 
 .unit-price {
