@@ -1,1 +1,124 @@
-{"sections":{"main":{"type":"main-product","blocks":{"title":{"type":"title","settings":{}},"8caf2911-70aa-4f10-a8cb-ec791ad7f00d":{"type":"text","settings":{"text":"Apple Watch Armband","text_style":"subtitle"}},"price":{"type":"price","settings":{}},"shipping_info":{"type":"text","settings":{"text":"Auf Lager, in 2-3 Tagen bei dir","text_style":"shipping_info"}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":false}}},"block_order":["title","8caf2911-70aa-4f10-a8cb-ec791ad7f00d","price","shipping_info","variant_picker","buy_buttons"],"settings":{"enable_sticky_info":true,"media_position":"left","gallery_layout":"stacked","media_size":"large","mobile_thumbnails":"hide","hide_variants":true,"enable_video_looping":false,"padding_top":36,"padding_bottom":0}},"0cb8ec78-f2ee-4739-b9f3-bcd2f66a50a9":{"type":"multicolumn","blocks":{"template--16932269064497__0cb8ec78-f2ee-4739-b9f3-bcd2f66a50a9-1668624346cc9beee8-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/qualitat.png","title":"100% Qualität","text":"<p>Dank weichem Silikon<\/p>","link_label":"","link":""}},"template--16932269064497__0cb8ec78-f2ee-4739-b9f3-bcd2f66a50a9-1668624346cc9beee8-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/qualitat.png","title":"100% Qualität","text":"<p>Dank weichem Silikon<\/p>","link_label":"","link":""}},"template--16932269064497__0cb8ec78-f2ee-4739-b9f3-bcd2f66a50a9-1668624346cc9beee8-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/qualitat.png","title":"100% Qualität","text":"<p>Dank weichem Silikon<\/p>","link_label":"","link":""}}},"block_order":["template--16932269064497__0cb8ec78-f2ee-4739-b9f3-bcd2f66a50a9-1668624346cc9beee8-0","template--16932269064497__0cb8ec78-f2ee-4739-b9f3-bcd2f66a50a9-1668624346cc9beee8-1","template--16932269064497__0cb8ec78-f2ee-4739-b9f3-bcd2f66a50a9-1668624346cc9beee8-2"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":76,"padding_bottom":100}}},"order":["main","0cb8ec78-f2ee-4739-b9f3-bcd2f66a50a9"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "8caf2911-70aa-4f10-a8cb-ec791ad7f00d": {
+          "type": "text",
+          "settings": {
+            "text": "Apple Watch Armband",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "shipping_info": {
+          "type": "text",
+          "settings": {
+            "text": "Auf Lager, in 2-3 Tagen bei dir",
+            "text_style": "shipping_info"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "8caf2911-70aa-4f10-a8cb-ec791ad7f00d",
+        "price",
+        "shipping_info",
+        "variant_picker",
+        "buy_buttons"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_position": "left",
+        "gallery_layout": "stacked",
+        "media_size": "large",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "0cb8ec78-f2ee-4739-b9f3-bcd2f66a50a9": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16932269064497__0cb8ec78-f2ee-4739-b9f3-bcd2f66a50a9-1668624346cc9beee8-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/qualitat.png",
+            "title": "100% Qualität",
+            "text": "<p>Dank weichem Silikon<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16932269064497__0cb8ec78-f2ee-4739-b9f3-bcd2f66a50a9-1668624346cc9beee8-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/qualitat.png",
+            "title": "100% Qualität",
+            "text": "<p>Dank weichem Silikon<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16932269064497__0cb8ec78-f2ee-4739-b9f3-bcd2f66a50a9-1668624346cc9beee8-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/qualitat.png",
+            "title": "100% Qualität",
+            "text": "<p>Dank weichem Silikon<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16932269064497__0cb8ec78-f2ee-4739-b9f3-bcd2f66a50a9-1668624346cc9beee8-0",
+        "template--16932269064497__0cb8ec78-f2ee-4739-b9f3-bcd2f66a50a9-1668624346cc9beee8-1",
+        "template--16932269064497__0cb8ec78-f2ee-4739-b9f3-bcd2f66a50a9-1668624346cc9beee8-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 76,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "main",
+    "0cb8ec78-f2ee-4739-b9f3-bcd2f66a50a9"
+  ]
+}
