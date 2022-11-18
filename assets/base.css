@@ -7,6 +7,9 @@
   --gradient-background: var(--gradient-base-background-1);
 }
 
+.custom-404-background {
+   background-image: url("https://cdn.shopify.com/s/files/1/0680/5179/6273/files/3828537.jpg?v=1668805193");
+}
 .color-background-2 {
   --color-foreground: var(--color-base-text);
   --color-background: var(--color-base-background-2);
